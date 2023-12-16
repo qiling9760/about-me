@@ -1,4 +1,5 @@
 # Qilin Guo
+### Basic information
 A 10th grade student
 
 High School of Telecommunication Arts and Technology
@@ -18,6 +19,11 @@ Gmail is [qiling@nycstudents.net](qiling@nycstudents.net)
 6. SEP 10
 7. Weight training
 8. Lunch
+
+---
+
+### Qilin's favorites
+Qilin's favorite hobbies are read novels and play video games. One of her favorite game is _League of Legends_. Her favorite subject is math and least favorite is spanish. 
 
 Learn more about **Qilin** by looking through her [portfolio](https://qiling9760.github.io/)!
 
