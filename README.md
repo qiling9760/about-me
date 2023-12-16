@@ -12,18 +12,26 @@ Gmail is [qiling@nycstudents.net](qiling@nycstudents.net)
 
 ### Schedule
 1. Chemistry
+   * 8:10 - 8:54
 2. Ap world history
+   * 8:57 - 9:46
 3. Algebra 2
+   * 9:49 - 10:33
 4. ELA
+   * 10:36 - 11:19
 5. Spanish
+   * 11:22 - 12:05
 6. SEP 10
+   * 12:08 - 12:51
 7. Weight training
+   * 12:54 - 1:38
 8. Lunch
+   * 1:41 - 2:25 
 
 ---
 
 ### Qilin's favorites
-Qilin's favorite hobbies are read novels and play video games. One of her favorite game is _League of Legends_. Her favorite subject is math and least favorite is spanish. 
+Qilin's favorite hobbies are read novels and play video games. One of her favorite game is _League of Legends_. Her favorite subject is math and least favorite is spanish.
 
 Learn more about **Qilin** by looking through her [portfolio](https://qiling9760.github.io/)!
 
