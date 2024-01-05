@@ -26,12 +26,14 @@ Gmail is [qiling@nycstudents.net](qiling@nycstudents.net)
 7. Weight training
    * 12:54 - 1:38
 8. Lunch
-   * 1:41 - 2:25 
+   * 1:41 - 2:25
 
 ---
 
 ### Qilin's favorites
-Qilin's favorite hobbies are read novels and play video games. One of her favorite game is _League of Legends_. Her favorite subject is math and least favorite is spanish.
+Qilin's favorite hobbies are read novels and play video games. One of her favorite game is _League of Legends_. Her favorite subject is Math and least favorite subject is Spanish.
 
 Learn more about **Qilin** by looking through her [portfolio](https://qiling9760.github.io/)!
 
+---
+Reviewed By Nancy Chen
